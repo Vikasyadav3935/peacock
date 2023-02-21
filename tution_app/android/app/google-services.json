@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "78284150031",
+    "project_id": "tution-ad3cb",
+    "storage_bucket": "tution-ad3cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78284150031:android:350faa267b11769b301a7a",
+        "android_client_info": {
+          "package_name": "com.tution_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "78284150031-lkg1u8bc837a3ctcr4j5jtam2jp012al.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tution_app",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "78284150031-rros83h2huodmlpci73onrig761t6b40.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqu51lJ030htTmpIInSDhnNaS1DTjNWXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "78284150031-rros83h2huodmlpci73onrig761t6b40.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
