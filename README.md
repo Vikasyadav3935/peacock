@@ -8,4 +8,4 @@ and for tution1 payment and tution2 payment
   drive link of apk(https://drive.google.com/file/d/1qGeoNbL3JceDhD8hsMn8SVZuo5jw6mY_/view?usp=sharing)
 
 
-i am firestore in List component and in NextCard component
+I am using firestore in List component and in NextCard component
